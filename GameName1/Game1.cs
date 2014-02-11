@@ -26,7 +26,7 @@ namespace GameName1
             Content.RootDirectory = "Content";
 
             // This hides the mouse.
-            this.IsMouseVisible = false;
+            this.IsMouseVisible = true;
         }
 
         /// <summary>
