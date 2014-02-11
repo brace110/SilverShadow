@@ -25,6 +25,7 @@ namespace GameName1
             graphics = new GraphicsDeviceManager(this);
             Content.RootDirectory = "Content";
 
+            // This hides the mouse.
             this.IsMouseVisible = false;
         }
 
